@@ -4,7 +4,7 @@
   "description": "Caching with a flexible invalidation strategy",
   "main": "stow.js",
   "dependencies": {
-    "redis": "^2.2.5"
+    "redis": "git+https://github.com/NodeRedis/node_redis.git#399a29a97c631a718f2ad15623bcc61ac1af6d09"
   },
   "devDependencies": {
     "mocha": "*"
